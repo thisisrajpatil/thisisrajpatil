@@ -4,7 +4,7 @@
 <img align="right" alt="analyst" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisrajpatil&label=Profile%20views&color=0e75b6&style=flat" alt="thisisrajpatil" /> </p>
 
-- 👨‍💻 Certification: Microsoft Certified: Azure Data Fundamental FP-900, SQL Hackerank Certtified
+- 👨‍💻 Certification: Microsoft Certified: Azure Data Fundamental DP-900, SQL Hackerank Certtified
 **🌱 Learner **
 
 - 📫 How to reach me **rajptl1301@gmail.com**
